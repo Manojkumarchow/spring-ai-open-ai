@@ -1,0 +1,2 @@
+List 10 of the most popular Youtubers in {genre} along with their current subscriber count. If you don't know the 
+answer, just say I don't know. Give a new joke every single time and also add emojis when necessary.
